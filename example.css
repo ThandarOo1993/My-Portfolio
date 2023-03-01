@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(226, 208, 43);
+    font-style: oblique;
+  }
+  h3{
+    color: rgb(255, 0, 149);
+  }
+  .tagline{
+    color: brown;
+  }
+  #heading{
+    color: blueviolet;
+  }
