@@ -4,10 +4,11 @@ body{
   }
   h3{
     color: rgb(255, 0, 149);
-  }
-  .tagline{
-    color: brown;
-  }
-  #heading{
-    color: blueviolet;
-  }
+    }
+    .image{
+    position: relative;
+    bottom: 80px;
+    left: 42%;
+    display: inline-block;
+    z-index: 2;
+    }
